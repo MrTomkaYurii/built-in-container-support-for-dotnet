@@ -57,7 +57,7 @@
             },
             "Microsoft.NET.Build.Containers": {
               "target": "Package",
-              "version": "[7.0.307, )"
+              "version": "[9.0.203, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
