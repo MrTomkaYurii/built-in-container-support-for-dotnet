@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "w/zhR4a+m88=",
+  "dgSpecHash": "1rOq1pqn5y8=",
   "success": true,
   "projectFilePath": "C:\\Users\\Yurii\\source\\repos_test_02\\HelloDocker7\\HelloDocker7.csproj",
   "expectedPackageFiles": [
@@ -12,9 +12,7 @@
     "C:\\Users\\Yurii\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Yurii\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\Yurii\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
-    "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\7.0.20\\microsoft.netcore.app.runtime.linux-x64.7.0.20.nupkg.sha512",
-    "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.20\\microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512",
-    "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\7.0.20\\microsoft.aspnetcore.app.runtime.linux-x64.7.0.20.nupkg.sha512"
+    "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.15\\microsoft.netcore.app.host.linux-x64.8.0.15.nupkg.sha512"
   ],
   "logs": []
 }

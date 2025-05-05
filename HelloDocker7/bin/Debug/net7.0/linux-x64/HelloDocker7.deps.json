@@ -10,7 +10,7 @@
       "HelloDocker7/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "7.0.19",
-          "Microsoft.NET.Build.Containers": "9.0.203",
+          "Microsoft.NET.Build.Containers": "7.0.307",
           "Swashbuckle.AspNetCore": "6.5.0",
           "runtimepack.Microsoft.NETCore.App.Runtime.linux-x64": "7.0.20",
           "runtimepack.Microsoft.AspNetCore.App.Runtime.linux-x64": "7.0.20"
@@ -1291,7 +1291,7 @@
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {},
-      "Microsoft.NET.Build.Containers/9.0.203": {},
+      "Microsoft.NET.Build.Containers/7.0.307": {},
       "Microsoft.OpenApi/1.4.3": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
@@ -1370,12 +1370,12 @@
       "path": "microsoft.extensions.apidescription.server/6.0.5",
       "hashPath": "microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512"
     },
-    "Microsoft.NET.Build.Containers/9.0.203": {
+    "Microsoft.NET.Build.Containers/7.0.307": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Pt5UJtvyqcHrz2V1lruoM7nULui+WoyHRpQSDu+pnnSpkTZdA0/M3lZ3WT+egnbwz3fA4wXuCQgEVLZAa1KdPw==",
-      "path": "microsoft.net.build.containers/9.0.203",
-      "hashPath": "microsoft.net.build.containers.9.0.203.nupkg.sha512"
+      "sha512": "sha512-uigBL8oAEwaGe/Ft6We1L/wATFpGAx1CnGby2bsGPjs5DQUXrqO1GJJtses2aDW0puEf4WEDo+nrE2G3RkFpag==",
+      "path": "microsoft.net.build.containers/7.0.307",
+      "hashPath": "microsoft.net.build.containers.7.0.307.nupkg.sha512"
     },
     "Microsoft.OpenApi/1.4.3": {
       "type": "package",

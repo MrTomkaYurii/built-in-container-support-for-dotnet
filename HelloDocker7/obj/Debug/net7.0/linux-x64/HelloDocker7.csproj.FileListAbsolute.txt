@@ -350,3 +350,4 @@ C:\Users\Yurii\source\repos_test_02\hellodocker7\obj\Debug\net7.0\linux-x64\refi
 C:\Users\Yurii\source\repos_test_02\hellodocker7\obj\Debug\net7.0\linux-x64\HelloDocker7.pdb
 C:\Users\Yurii\source\repos_test_02\hellodocker7\obj\Debug\net7.0\linux-x64\HelloDocker7.genruntimeconfig.cache
 C:\Users\Yurii\source\repos_test_02\hellodocker7\obj\Debug\net7.0\linux-x64\ref\HelloDocker7.dll
+C:\Users\Yurii\source\repos_test_02\HelloDocker7\obj\Debug\net7.0\linux-x64\HelloDocker7.sourcelink.json
