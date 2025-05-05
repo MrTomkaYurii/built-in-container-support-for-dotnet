@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "Tj0WMgSHj8k=",
+  "dgSpecHash": "w/zhR4a+m88=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yurii\\source\\repos_test_02\\hellodocker7\\HelloDocker7.csproj",
+  "projectFilePath": "C:\\Users\\Yurii\\source\\repos_test_02\\HelloDocker7\\HelloDocker7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.19\\microsoft.aspnetcore.openapi.7.0.19.nupkg.sha512",
     "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.net.build.containers\\9.0.203\\microsoft.net.build.containers.9.0.203.nupkg.sha512",
+    "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.net.build.containers\\7.0.307\\microsoft.net.build.containers.7.0.307.nupkg.sha512",
     "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Yurii\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Yurii\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Yurii\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\Yurii\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\7.0.20\\microsoft.netcore.app.runtime.linux-x64.7.0.20.nupkg.sha512",
-    "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\7.0.20\\microsoft.aspnetcore.app.runtime.linux-x64.7.0.20.nupkg.sha512",
-    "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.20\\microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+    "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.20\\microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512",
+    "C:\\Users\\Yurii\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\7.0.20\\microsoft.aspnetcore.app.runtime.linux-x64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }

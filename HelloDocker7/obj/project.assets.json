@@ -32,7 +32,7 @@
           "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
         }
       },
-      "Microsoft.NET.Build.Containers/9.0.203": {
+      "Microsoft.NET.Build.Containers/7.0.307": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.Build.Containers.props": {},
@@ -147,7 +147,7 @@
           "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
         }
       },
-      "Microsoft.NET.Build.Containers/9.0.203": {
+      "Microsoft.NET.Build.Containers/7.0.307": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.Build.Containers.props": {},
@@ -479,10 +479,10 @@
         "tools/netcoreapp2.1/System.Diagnostics.DiagnosticSource.dll"
       ]
     },
-    "Microsoft.NET.Build.Containers/9.0.203": {
-      "sha512": "Pt5UJtvyqcHrz2V1lruoM7nULui+WoyHRpQSDu+pnnSpkTZdA0/M3lZ3WT+egnbwz3fA4wXuCQgEVLZAa1KdPw==",
+    "Microsoft.NET.Build.Containers/7.0.307": {
+      "sha512": "uigBL8oAEwaGe/Ft6We1L/wATFpGAx1CnGby2bsGPjs5DQUXrqO1GJJtses2aDW0puEf4WEDo+nrE2G3RkFpag==",
       "type": "package",
-      "path": "microsoft.net.build.containers/9.0.203",
+      "path": "microsoft.net.build.containers/7.0.307",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -491,19 +491,6 @@
         "build/Microsoft.NET.Build.Containers.props",
         "build/Microsoft.NET.Build.Containers.targets",
         "containerize/Microsoft.DotNet.Cli.Utils.dll",
-        "containerize/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "containerize/Microsoft.Extensions.Configuration.Binder.dll",
-        "containerize/Microsoft.Extensions.Configuration.dll",
-        "containerize/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "containerize/Microsoft.Extensions.DependencyInjection.dll",
-        "containerize/Microsoft.Extensions.DependencyModel.dll",
-        "containerize/Microsoft.Extensions.Logging.Abstractions.dll",
-        "containerize/Microsoft.Extensions.Logging.Configuration.dll",
-        "containerize/Microsoft.Extensions.Logging.Console.dll",
-        "containerize/Microsoft.Extensions.Logging.dll",
-        "containerize/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
-        "containerize/Microsoft.Extensions.Options.dll",
-        "containerize/Microsoft.Extensions.Primitives.dll",
         "containerize/Microsoft.NET.Build.Containers.dll",
         "containerize/Newtonsoft.Json.dll",
         "containerize/NuGet.Common.dll",
@@ -519,31 +506,34 @@
         "containerize/Valleysoft.DockerCredsProvider.dll",
         "containerize/containerize.dll",
         "containerize/containerize.runtimeconfig.json",
-        "microsoft.net.build.containers.9.0.203.nupkg.sha512",
+        "microsoft.net.build.containers.7.0.307.nupkg.sha512",
         "microsoft.net.build.containers.nuspec",
         "tasks/net472/Microsoft.NET.Build.Containers.dll",
         "tasks/net472/Newtonsoft.Json.dll",
         "tasks/net472/NuGet.Common.dll",
         "tasks/net472/NuGet.Configuration.dll",
+        "tasks/net472/NuGet.DependencyResolver.Core.dll",
         "tasks/net472/NuGet.Frameworks.dll",
+        "tasks/net472/NuGet.LibraryModel.dll",
+        "tasks/net472/NuGet.Packaging.Core.dll",
         "tasks/net472/NuGet.Packaging.dll",
+        "tasks/net472/NuGet.ProjectModel.dll",
+        "tasks/net472/NuGet.Protocol.dll",
         "tasks/net472/NuGet.Versioning.dll",
-        "tasks/net9.0/Microsoft.DotNet.Cli.Utils.dll",
-        "tasks/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "tasks/net9.0/Microsoft.Extensions.DependencyInjection.dll",
-        "tasks/net9.0/Microsoft.Extensions.Logging.Abstractions.dll",
-        "tasks/net9.0/Microsoft.Extensions.Logging.dll",
-        "tasks/net9.0/Microsoft.Extensions.Options.dll",
-        "tasks/net9.0/Microsoft.Extensions.Primitives.dll",
-        "tasks/net9.0/Microsoft.NET.Build.Containers.deps.json",
-        "tasks/net9.0/Microsoft.NET.Build.Containers.dll",
-        "tasks/net9.0/Newtonsoft.Json.dll",
-        "tasks/net9.0/NuGet.Common.dll",
-        "tasks/net9.0/NuGet.Configuration.dll",
-        "tasks/net9.0/NuGet.Frameworks.dll",
-        "tasks/net9.0/NuGet.Packaging.dll",
-        "tasks/net9.0/NuGet.Versioning.dll",
-        "tasks/net9.0/Valleysoft.DockerCredsProvider.dll"
+        "tasks/net7.0/Microsoft.DotNet.Cli.Utils.dll",
+        "tasks/net7.0/Microsoft.NET.Build.Containers.deps.json",
+        "tasks/net7.0/Microsoft.NET.Build.Containers.dll",
+        "tasks/net7.0/Newtonsoft.Json.dll",
+        "tasks/net7.0/NuGet.Common.dll",
+        "tasks/net7.0/NuGet.Configuration.dll",
+        "tasks/net7.0/NuGet.DependencyResolver.Core.dll",
+        "tasks/net7.0/NuGet.Frameworks.dll",
+        "tasks/net7.0/NuGet.LibraryModel.dll",
+        "tasks/net7.0/NuGet.Packaging.dll",
+        "tasks/net7.0/NuGet.ProjectModel.dll",
+        "tasks/net7.0/NuGet.Protocol.dll",
+        "tasks/net7.0/NuGet.Versioning.dll",
+        "tasks/net7.0/Valleysoft.DockerCredsProvider.dll"
       ]
     },
     "Microsoft.OpenApi/1.4.3": {
@@ -654,7 +644,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.AspNetCore.OpenApi >= 7.0.19",
-      "Microsoft.NET.Build.Containers >= 9.0.203",
+      "Microsoft.NET.Build.Containers >= 7.0.307",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -665,11 +655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yurii\\source\\repos_test_02\\hellodocker7\\HelloDocker7.csproj",
+      "projectUniqueName": "C:\\Users\\Yurii\\source\\repos_test_02\\HelloDocker7\\HelloDocker7.csproj",
       "projectName": "HelloDocker7",
-      "projectPath": "C:\\Users\\Yurii\\source\\repos_test_02\\hellodocker7\\HelloDocker7.csproj",
+      "projectPath": "C:\\Users\\Yurii\\source\\repos_test_02\\HelloDocker7\\HelloDocker7.csproj",
       "packagesPath": "C:\\Users\\Yurii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yurii\\source\\repos_test_02\\hellodocker7\\obj\\",
+      "outputPath": "C:\\Users\\Yurii\\source\\repos_test_02\\HelloDocker7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -715,7 +705,7 @@
           },
           "Microsoft.NET.Build.Containers": {
             "target": "Package",
-            "version": "[9.0.203, )"
+            "version": "[7.0.307, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

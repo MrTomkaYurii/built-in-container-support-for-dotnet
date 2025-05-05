@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Yurii\\source\\repos_test_02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{389D7D62-9394-DC5F-6FB6-ABAEAD036653}|HelloDocker7\\HelloDocker7.csproj|c:\\users\\yurii\\source\\repos_test_02\\hellodocker7\\hellodocker7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{389D7D62-9394-DC5F-6FB6-ABAEAD036653}|HelloDocker7\\HelloDocker7.csproj|solutionrelative:hellodocker7\\hellodocker7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yurii\\source\\repos_test_02\\HelloDocker\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloDocker\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HelloDocker7",
+              "DocumentMoniker": "C:\\Users\\Yurii\\source\\repos_test_02\\HelloDocker7\\HelloDocker7.csproj",
+              "RelativeDocumentMoniker": "HelloDocker7\\HelloDocker7.csproj",
+              "ToolTip": "C:\\Users\\Yurii\\source\\repos_test_02\\HelloDocker7\\HelloDocker7.csproj",
+              "RelativeToolTip": "HelloDocker7\\HelloDocker7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T10:41:45.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Yurii\\source\\repos_test_02\\HelloDocker\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "HelloDocker\\Properties\\launchSettings.json",
@@ -37,13 +54,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Yurii\\source\\repos_test_02\\HelloDocker\\Program.cs",
               "RelativeDocumentMoniker": "HelloDocker\\Program.cs",
               "ToolTip": "C:\\Users\\Yurii\\source\\repos_test_02\\HelloDocker\\Program.cs",
               "RelativeToolTip": "HelloDocker\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T09:53:32.659Z"
             }
