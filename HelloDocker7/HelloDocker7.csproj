@@ -6,6 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <PropertyGroup>
+  <ContainerImageName>hellodocker7</ContainerImageName>
+  <PublishProfile>DefaultContainer</PublishProfile>
+  <ContainerImageTags>1.1.0;latest</ContainerImageTags>
+  <RuntimeIdentifier>linux-x64</RuntimeIdentifier>    
+</PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.19" />
     <PackageReference Include="Microsoft.NET.Build.Containers" Version="9.0.203" />
